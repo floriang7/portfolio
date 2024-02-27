@@ -2292,7 +2292,7 @@ header .logo a {
 	letter-spacing: .1rem;
 	padding: 0 2rem;
 	margin: 0;
-	color: #FFFFFF;
+	color: #000;
 	background: #fff;
 }
 #contact form .form-field label::after {
@@ -2362,7 +2362,7 @@ header .logo a {
 	color: #fa0003;
 }
 #message-success {
-	color: #fff;
+	color: green;
 }
 #message-warning i, #message-success i {
 	margin-right: 10px;
